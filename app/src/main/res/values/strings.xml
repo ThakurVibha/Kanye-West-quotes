@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quote Generator</string>
+    <string name="just_wait_new_quote_is_coming">Just wait new Quote is Coming</string>
+    <string name="refresh">Refresh</string>
+</resources>
